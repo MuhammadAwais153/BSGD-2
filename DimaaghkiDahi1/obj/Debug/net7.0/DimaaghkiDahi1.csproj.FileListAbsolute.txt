@@ -1,0 +1,15 @@
+F:\Assignments\Sir Dardi Assignments\DimaaghkiDahi1\DimaaghkiDahi1\bin\Debug\net7.0\DimaaghkiDahi1.exe
+F:\Assignments\Sir Dardi Assignments\DimaaghkiDahi1\DimaaghkiDahi1\bin\Debug\net7.0\DimaaghkiDahi1.deps.json
+F:\Assignments\Sir Dardi Assignments\DimaaghkiDahi1\DimaaghkiDahi1\bin\Debug\net7.0\DimaaghkiDahi1.runtimeconfig.json
+F:\Assignments\Sir Dardi Assignments\DimaaghkiDahi1\DimaaghkiDahi1\bin\Debug\net7.0\DimaaghkiDahi1.dll
+F:\Assignments\Sir Dardi Assignments\DimaaghkiDahi1\DimaaghkiDahi1\bin\Debug\net7.0\DimaaghkiDahi1.pdb
+F:\Assignments\Sir Dardi Assignments\DimaaghkiDahi1\DimaaghkiDahi1\obj\Debug\net7.0\DimaaghkiDahi1.csproj.AssemblyReference.cache
+F:\Assignments\Sir Dardi Assignments\DimaaghkiDahi1\DimaaghkiDahi1\obj\Debug\net7.0\DimaaghkiDahi1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Assignments\Sir Dardi Assignments\DimaaghkiDahi1\DimaaghkiDahi1\obj\Debug\net7.0\DimaaghkiDahi1.AssemblyInfoInputs.cache
+F:\Assignments\Sir Dardi Assignments\DimaaghkiDahi1\DimaaghkiDahi1\obj\Debug\net7.0\DimaaghkiDahi1.AssemblyInfo.cs
+F:\Assignments\Sir Dardi Assignments\DimaaghkiDahi1\DimaaghkiDahi1\obj\Debug\net7.0\DimaaghkiDahi1.csproj.CoreCompileInputs.cache
+F:\Assignments\Sir Dardi Assignments\DimaaghkiDahi1\DimaaghkiDahi1\obj\Debug\net7.0\DimaaghkiDahi1.dll
+F:\Assignments\Sir Dardi Assignments\DimaaghkiDahi1\DimaaghkiDahi1\obj\Debug\net7.0\refint\DimaaghkiDahi1.dll
+F:\Assignments\Sir Dardi Assignments\DimaaghkiDahi1\DimaaghkiDahi1\obj\Debug\net7.0\DimaaghkiDahi1.pdb
+F:\Assignments\Sir Dardi Assignments\DimaaghkiDahi1\DimaaghkiDahi1\obj\Debug\net7.0\DimaaghkiDahi1.genruntimeconfig.cache
+F:\Assignments\Sir Dardi Assignments\DimaaghkiDahi1\DimaaghkiDahi1\obj\Debug\net7.0\ref\DimaaghkiDahi1.dll
